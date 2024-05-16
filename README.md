@@ -18,7 +18,7 @@ Project prototype utilizes an Arduino to control an irrigation system using sole
 
 <p align="center">
 MITInventor Mobile Application: <br/>
-<img src="Capture.JPG" height="432" width="682"/>
+<img src="Capture.JPG"  height="80%" width="80%"/>
 <br />
 <br />
 Complete Project Prototype:  <br/>
