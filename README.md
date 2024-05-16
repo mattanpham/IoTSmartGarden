@@ -18,7 +18,8 @@ Project prototype utilizes an Arduino to control an irrigation system using sole
 
 <p align="center">
 MITInventor Mobile Application: <br/>
-<img src="https://imgur.com/gallery/mit-app-inventor-example-7ohEBA1.jpg" height="80%" width="80%" alt="IOT Smart Garden"/>
+<img src="![image](https://github.com/mattanpham/IoTSmartGarden/assets/117331284/7cc333d5-b315-4ae2-bdab-f72b1bd651be)
+" height="80%" width="80%" alt="IOT Smart Garden"/>
 <br />
 <br />
 Complete Project Prototype:  <br/>
