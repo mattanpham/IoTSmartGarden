@@ -26,7 +26,7 @@ Complete Project Prototype:  <br/>
 <br />
 <br />
 Prototype Demonstration: <br/>
-<img src="![Imgur Video](https://imgur.com/M2uI7cI.mp4)" height="80%" width="80%" alt="IOT Smart Garden"/>
+<video src="![Imgur Video](https://imgur.com/M2uI7cI.mp4)" height="80%" width="80%" alt="IOT Smart Garden"/>
 <br />
 <br />
 </p>
