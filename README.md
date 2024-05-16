@@ -26,7 +26,7 @@ Complete Project Prototype:  <br/>
 <br />
 <br />
 Prototype Demonstration: <br/>
-<video src="https://github.com/mattanpham/IoTSmartGarden/assets/117331284/14adef36-1694-44e6-838e-292230ae5881" height="80%" width="80%" alt="IOT Smart Garden"/>
+<video src="https://github.com/mattanpham/IoTSmartGarden/assets/117331284/14adef36-1694-44e6-838e-292230ae5881" alt="IOT Smart Garden"/>
 <br />
 <br />
 </p>
