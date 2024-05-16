@@ -22,11 +22,11 @@ MITInventor Mobile Application: <br/>
 <br />
 <br />
 Complete Project Prototype:  <br/>
-<img src="https://imgur.com/ZyAiBgR" height="80%" width="80%" alt="IOT Smart garden"/>
+<img src="IMG_1327.jpg" height="80%" width="80%" alt="IOT Smart garden"/>
 <br />
 <br />
 Prototype Demonstration: <br/>
-<img src="https://imgur.com/BRGgClY" height="80%" width="80%" alt="IOT Smart Garden"/>
+<img src="[Imgur](https://imgur.com/M2uI7cI)" height="80%" width="80%" alt="IOT Smart Garden"/>
 <br />
 <br />
 </p>
