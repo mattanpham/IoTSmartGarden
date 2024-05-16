@@ -12,7 +12,7 @@ Project prototype utilizes an Arduino to control an irrigation system using sole
 
 <h2>Environments Used </h2>
 
-- <b>Arduino IDE</b> (21H2)
+- <b>Arduino IDE</b> 
 
 <h2>Demonstration and Related Media:</h2>
 
